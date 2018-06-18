@@ -1,6 +1,6 @@
 $( document ).ready(function() {
     // An array of actions, new actions will be pushed into this array;
-    var emotions = ["happy", "sad", "fear", "anger", "loving", "confused"];
+    var emotions = ["happy", "sad", "fear", "anger", "caring", "confused"];
     // Creating Functions & Methods
     // Function that displays all gif buttons
     function displayGifButtons(){
