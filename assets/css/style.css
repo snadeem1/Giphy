@@ -11,10 +11,14 @@ header{
     padding-bottom: 25px;
     color: aliceblue;
     font-family: serif;
+    font-style: italic;
+    font-weight: bold;
 }
 body{
-    background-color: pink;
+    background-image: url('https://media.mnn.com/assets/images/2016/12/Emojis-Faces-White-Background-Promo.jpg.600x315_q80_crop-smart.jpg');
+background-size: 100%;    
 }
+
 
 img { 
     height: 150px;
@@ -30,9 +34,11 @@ img {
     margin: 3px;
     background-color: purple;
     border-color: #fff;
+    height: 50px;
+    width: auto;
 }
 h2{
     font-family: serif;
     font-weight: bold;
-    font-size: 60px;
+    font-size: 70px;
 }
